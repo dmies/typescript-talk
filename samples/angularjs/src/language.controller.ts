@@ -6,7 +6,7 @@ interface LanguageControllerScope extends ng.IScope {
 }
 
 export class LanguageController {
-    static $inject = ["$scope", "LanguageService"];
+    static $inject = ['$scope', 'LanguageService'];
 
     constructor($scope: LanguageControllerScope, languageService: LanguageService) {
         $scope.languages = languageService.getAll();

@@ -3,3 +3,6 @@ function add(a: number, b: number): number {
 }
 
 add(1, 2)
+
+
+pp('div').hide();

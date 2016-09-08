@@ -9,5 +9,5 @@
  a = 123;
  ```
 - bad IDE support<!-- .element: class="fragment" -->
-- lack of modularity<!-- .element: class="fragment" -->
+- (lack of modularity)<!-- .element: class="fragment" -->
 - errors at runtime<!-- .element: class="fragment" -->

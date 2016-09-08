@@ -1,4 +1,4 @@
-### But there are more types...
+### Types are everywhere
 
 ```
 var valid = true; // boolean

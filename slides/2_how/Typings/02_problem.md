@@ -1,4 +1,7 @@
 ## The problem
 
-- TypeScript simplifies development<!-- .element: class="fragment" -->
-- but what about libraries and frameworks?<!-- .element: class="fragment" -->
+```
+$('div').hide();
+```
+
+Error: Cannot find name '$'.<!-- .element: class="fragment" -->
