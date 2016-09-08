@@ -1,6 +1,7 @@
 import {Language} from './types/language';
 import {LanguageService} from './language.service';
 
+
 interface LanguageControllerScope extends ng.IScope {
     languages: Language[]
 }

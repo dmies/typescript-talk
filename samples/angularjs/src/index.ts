@@ -1,4 +1,3 @@
-import {angular} from 'angular';
 import {LanguageService} from './language.service';
 import {LanguageController} from './language.controller';
 
