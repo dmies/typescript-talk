@@ -31,7 +31,6 @@ build/Release
 
 # Dependency directories
 node_modules
-typings
 jspm_packages
 
 # Optional npm cache directory
@@ -40,5 +39,10 @@ jspm_packages
 # Optional REPL history
 .node_repl_history
 
+# Project stuff
+.idea
+*.iml
+samples/playground/typings
 samples/playground/dist/
+samples/angularjs/typings
 samples/angularjs/dist/
