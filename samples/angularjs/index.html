@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html ng-app="hello.typescript">
+
+<body>
+
+<div ng-controller="LanguageController">
+    <table>
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="language in languages">
+            <td>{{language.id}}</td>
+            <td>{{language.name}}</td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="dist/bundle.js"></script>
+</body>
+</html>

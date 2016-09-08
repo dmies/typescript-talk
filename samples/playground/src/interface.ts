@@ -4,8 +4,10 @@ interface User{
     birthday?: Date;
 }
 
-const user:User = {
+var data = {
     id:'213',
-    username:'bob'
+    username:'bob',
+    language:'typescript'
 }
 
+const user:User = data;

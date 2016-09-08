@@ -1,0 +1,13 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "tsc"
+  },
+  "keywords": [],
+  "author": "Daniel Mies, daniel.mies@codecentric.de",
+  "license": "Apache2.0",
+  "dependencies": {
+    "typescript": "^1.8.10"
+  }
+}

@@ -13,6 +13,6 @@ const user:User = {
 }
 ```
 
-- e.g. for data offered by a REST interface<!-- .element: class="fragment" -->
+- e.g. for data consumed via REST<!-- .element: class="fragment" -->
 - optional types allow high flexibility<!-- .element: class="fragment" -->
 - great IDE support thanks to autocompletion<!-- .element: class="fragment" -->
