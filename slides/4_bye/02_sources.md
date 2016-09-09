@@ -7,3 +7,4 @@
 - http://johnlouros.com/projects/TypeScriptPresentation/#/
 - https://blogs.msdn.microsoft.com/typescript/
 - https://www.sitepen.com/blog/2016/09/01/typescript-2-0-awesomeness/
+- http://rafaeldebono.deviantart.com/art/Microsoft-Death-Star-524651655
