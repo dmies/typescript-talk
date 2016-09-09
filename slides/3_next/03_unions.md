@@ -1,4 +1,4 @@
-## Union Types
+## Tagged Union Types
 
 ```
 interface Circle {

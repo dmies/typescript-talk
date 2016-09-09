@@ -8,4 +8,4 @@ let nums: Digit[] = [1, 2, 4, 8];
 nums.push(16);
 ```
 
-- each unique boolean, number, and enum member has its own type<!-- .element: class="fragment" -->
+- each unique string, boolean, number, and enum member has its own type<!-- .element: class="fragment" -->
