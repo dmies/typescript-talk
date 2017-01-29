@@ -4,9 +4,7 @@
 class Greeting{
     constructor(private greeting:string = 'World'){}
 
-    greet = () => {
-        console.log(`Hello ${this.greeting}`);
-    }
+    greet = () => console.log(`Hello ${this.greeting}`);
 }
 ```
 

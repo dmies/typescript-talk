@@ -8,6 +8,6 @@
   "author": "Daniel Mies, daniel.mies@codecentric.de",
   "license": "Apache2.0",
   "dependencies": {
-    "typescript": "^1.8.10"
+    "typescript": "^2.1.5"
   }
 }

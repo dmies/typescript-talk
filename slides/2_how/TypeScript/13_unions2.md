@@ -1,7 +1,5 @@
 ## Tagged Union Types
 
-TypeScript 1.8:
-
 ```
 function getArea(shape: Shape) {
     switch (shape.kind) {
