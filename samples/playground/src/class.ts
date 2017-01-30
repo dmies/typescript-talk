@@ -1,9 +1,7 @@
-class Greeting{
-    constructor(private greeting:string = 'World'){}
+class Greeting {
+    constructor(private greeting: string = 'World') { }
 
-    greet = () => {
-        console.log(`Hello ${this.greeting}!`);
-    }
+    greet = () => console.log(`Hello ${this.greeting}!`);
 }
 
 let greeting = new Greeting();

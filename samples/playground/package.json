@@ -2,7 +2,7 @@
   "name": "playground",
   "version": "1.0.0",
   "scripts": {
-    "postinstall": "tsc"
+    "postinstall": " -p ."
   },
   "keywords": [],
   "author": "Daniel Mies, daniel.mies@codecentric.de",
