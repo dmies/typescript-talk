@@ -1,7 +1,7 @@
 ## Typeinformation via npm
 
 ```
-npm install --save @types/jquery
+npm install --saveDev @types/jquery
 ```
 
 - type definitions can be installed via npm

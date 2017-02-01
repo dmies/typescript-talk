@@ -1,5 +1,6 @@
-import {LanguageService} from './language.service';
-import {LanguageController} from './language.controller';
+import * as angular from 'angular';
+import { LanguageService } from './language.service';
+import { LanguageController } from './language.controller';
 
 angular.module('hello.typescript', [])
     .controller('LanguageController', LanguageController)
